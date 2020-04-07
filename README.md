@@ -1,2 +1,2 @@
-asdasd# frank-uniapp-basic
-git commit -m "first commit"
+# Frank Uni-App
+README
